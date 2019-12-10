@@ -1,0 +1,11 @@
+*.idea
+/.vscode
+*.idea
+/npm-debug.log
+/node_modules
+/dist
+*.log
+yarn.lock
+*.DS_Store
+/package-lock.json
+/nodemon-debug.json
